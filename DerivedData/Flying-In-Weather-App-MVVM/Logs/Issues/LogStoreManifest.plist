@@ -5,7 +5,54 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>05101C2C-F712-4E58-ADB0-4A05923E9E00</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>05101C2C-F712-4E58-ADB0-4A05923E9E00.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>Flying-In-Weather-App-MVVM-goajncaixeglbkbmzngcincicrjj</string>
+			<key>timeStartedRecording</key>
+			<real>574969561.57050896</real>
+			<key>timeStoppedRecording</key>
+			<real>574969564.01592398</real>
+			<key>title</key>
+			<string>Build target Flying-In-Weather-App-MVVM</string>
+			<key>uniqueIdentifier</key>
+			<string>05101C2C-F712-4E58-ADB0-4A05923E9E00</string>
+		</dict>
+		<key>5E178B7B-D7EF-47C1-976C-CD6B424304C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>5E178B7B-D7EF-47C1-976C-CD6B424304C8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>signature</key>
+			<string>Flying-In-Weather-App-MVVM-cdzxtsehnomuyxdvvwqefpuyyogf</string>
+			<key>timeStartedRecording</key>
+			<real>575234085.75414097</real>
+			<key>timeStoppedRecording</key>
+			<real>575234085.78728604</real>
+			<key>title</key>
+			<string>Build target Flying-In-Weather-App-MVVM</string>
+			<key>uniqueIdentifier</key>
+			<string>5E178B7B-D7EF-47C1-976C-CD6B424304C8</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "9fd44a7c31d3b31f8d08161543d17a80"
+build_time: [1553541285, 770811000]
+inputs:
+  "/Users/kennethmoody/Desktop/iOS projects/Flying-In-Weather-App-MVVM/Flying-In-Weather-App-MVVM/AppDelegate.swift": !dirty [1553273639, 0]
